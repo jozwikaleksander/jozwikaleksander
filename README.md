@@ -9,6 +9,6 @@ I'm Aleksander, student at 🇵🇱 [Zespół Szkół Elektronicznych im. Bohate
 - Art
 
 📜 **Best certs**
-- CCNA
+- [CCNA](https://www.credly.com/badges/55999a78-c56a-4253-968f-d764c438f61d)
 
-📚 I'm currently studing for **CompTIA A+**.
+📚 I'm currently studing for [CompTIA A+](https://www.comptia.org/certifications/a).

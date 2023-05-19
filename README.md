@@ -6,6 +6,7 @@ Check out my website 👉 [aleksanderjozwik.me](http://www.aleksanderjozwik.me)
 🎨 **Hobbies**
 - Computer networks
 - Cybersecurity
+- Astronomy
 - 3D Printing
 - Programming
 - Art

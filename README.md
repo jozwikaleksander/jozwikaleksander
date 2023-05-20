@@ -1,7 +1,8 @@
 ### Hi 👋
 I'm Aleksander, student at 🇵🇱 [Zespół Szkół Elektronicznych im. Bohaterów Westerplatte w Radomiu](https://elektronik.edu.pl/).
 
-Check out my website 👉 [aleksanderjozwik.me](http://www.aleksanderjozwik.me)
+Check out my **website** 👉 [aleksanderjozwik.me](http://www.aleksanderjozwik.me)
+You can find my 🐧 **Linux dotfiles** here 👉 [📁 Dotfiles](https://github.com/jozwikaleksander/dotfiles)
 
 🎨 **Hobbies**
 - Computer networks

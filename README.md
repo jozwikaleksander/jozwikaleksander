@@ -3,7 +3,7 @@ I'm Aleksander, student at 🇵🇱 [Zespół Szkół Elektronicznych im. Bohate
 
 Check out my **website** 👉 [aleksanderjozwik.me](http://www.aleksanderjozwik.me)
 
-You can find my 🐧 **Linux dotfiles** here 👉 [📁 Dotfiles](https://github.com/jozwikaleksander/dotfiles)
+You can find my 🐧 **Linux dotfiles** here 👉 [click here](https://github.com/jozwikaleksander/dotfiles)
 
 🎨 **Hobbies**
 - Computer networks

@@ -15,6 +15,6 @@ You can find my 🐧 **Linux dotfiles** here 👉 [click here](https://github.co
 
 📜 **Best certs**
 - [CCNA](https://www.credly.com/badges/55999a78-c56a-4253-968f-d764c438f61d)
-- CompTIA A+ (220-1101 & 220-1102)
+- [CompTIA A+ (220-1101 & 220-1102)](https://www.credly.com/badges/cd67a953-509a-4cbd-9526-7edea223f7dd)
 
 📚 I'm currently studing for CompTIA Security+.

@@ -1,5 +1,5 @@
 ### Hi 👋
-<img src="https://tryhackme-badges.s3.amazonaws.com/a.jozwik.png?" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/a.jozwik.png" alt="TryHackMe">
 I'm Aleksander, student at 🇵🇱 [Zespół Szkół Elektronicznych im. Bohaterów Westerplatte w Radomiu](https://elektronik.edu.pl/).
 
 Check out my **website** 👉 [aleksanderjozwik.com](http://www.aleksanderjozwik.com)

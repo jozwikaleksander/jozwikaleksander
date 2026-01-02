@@ -1,10 +1,8 @@
 ### Hi 👋
 <img src="https://tryhackme-badges.s3.amazonaws.com/a.jozwik.png?2" alt="TryHackMe">
-I'm Aleksander, student at 🇵🇱 [Zespół Szkół Elektronicznych im. Bohaterów Westerplatte w Radomiu](https://elektronik.edu.pl/).
+I'm Aleksander, student at Warsaw University of Technology.
 
-Check out my **website** 👉 [aleksanderjozwik.com](http://www.aleksanderjozwik.com)
-
-You can find my 🐧 **Linux dotfiles** here 👉 [click here](https://github.com/jozwikaleksander/dotfiles)
+**🌐 Website** [aleksanderjozwik.com](http://www.aleksanderjozwik.com)
 
 🎨 **Hobbies**
 - Computer networks
